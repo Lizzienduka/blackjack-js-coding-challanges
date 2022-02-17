@@ -8,6 +8,8 @@ function ageInDays() {
   document.getElementById('flex-box-result').appendChild(h1)
 }
 
+// 
+
 
 function reset() {
   console.log("clicked")
